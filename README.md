@@ -6,7 +6,7 @@ Emagrecimento saldável
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Página de Vendas - E-book Emagrecimento Natural</title>
-  <script src="https://cdn.tailwindcss.com"></script>
+   src="https://cdn.tailwindcss.com"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
   <style>
     .testimonial-card {
@@ -23,7 +23,7 @@ Emagrecimento saldável
       50% { transform: scale(1.05); }
       100% { transform: scale(1); }
     }
-  </style>
+ 
 </head>
 <body class="bg-gray-50 text-gray-800 font-sans">
 
@@ -81,7 +81,7 @@ Emagrecimento saldável
           <span>Resultados sustentáveis, sem efeito sanfona</span>
         </div>
         <div class="flex items-start">
-          <span class="text-orange-500 mr-3">✔</span>
+          <span class="text-orange-500 span>
           <span>Adaptável a qualquer rotina, mesmo para quem tem pouco tempo</span>
         </div>
         <div class="flex items-start">
@@ -138,9 +138,9 @@ Emagrecimento saldável
               <h4 class="font-bold text-lg">Ana Clara, 32 anos</h4>
               <div class="flex text-yellow-400">
                 ★ ★ ★ ★ ★
-              </div>
-            </div>
-          </div>
+             
+            
+      
           <p class="italic text-gray-700">"Perdi 7kg em apenas 5 semanas seguindo o método! O melhor é que não senti fome e nem precisei cortar completamente o que gosto. Aprendi a ter equilíbrio e hoje me sinto muito mais disposta!"</p>
           <div class="mt-4 flex justify-end">
             <span class="text-xs text-gray-500">Antes: 78kg | Depois: 71kg</span>
@@ -155,9 +155,9 @@ Emagrecimento saldável
               <h4 class="font-bold text-lg">Carlos, 41 anos</h4>
               <div class="flex text-yellow-400">
                 ★ ★ ★ ★ ★
-              </div>
-            </div>
-          </div>
+             
+            
+          
           <p class="italic text-gray-700">"Sempre tentei dietas radicais e falhava. Com esse e-book aprendi a mudar meus hábitos de forma gradual. Em 2 meses perdi 9kg e o mais importante: mantive o peso por mais de 1 ano!"</p>
           <div class="mt-4 flex justify-end">
             <span class="text-xs text-gray-500">Antes: 92kg | Depois: 83kg</span>
